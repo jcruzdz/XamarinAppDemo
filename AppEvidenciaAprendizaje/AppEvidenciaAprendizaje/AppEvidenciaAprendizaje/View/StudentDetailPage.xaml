@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEvidenciaAprendizaje.View.StudentDetailPage">
+  <ContentPage.Content>
+  </ContentPage.Content>
+  <StackLayout>
+    <Label Text="Nombre:"></Label>
+    <Entry Text="{Binding Name}"></Entry>
+
+    <Label Text="Apellidos"></Label>
+    <Entry Text="{Binding LastName}"></Entry>
+
+    <Label Text="Promedio"></Label>
+    <Entry Text="{Binding Average}"></Entry>
+  </StackLayout>
+</ContentPage>
