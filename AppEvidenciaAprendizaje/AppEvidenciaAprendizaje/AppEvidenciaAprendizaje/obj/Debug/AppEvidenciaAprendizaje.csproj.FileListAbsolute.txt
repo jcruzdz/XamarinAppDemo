@@ -13,5 +13,11 @@ C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenci
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\obj\Debug\AppEvidenciaAprendizaje.dll
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\obj\Debug\AppEvidenciaAprendizaje.pdb
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\obj\Debug\AppEvidenciaAprendizaje.csprojResolveAssemblyReference.cache
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\bin\Debug\SQLite-net.dll
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\bin\Debug\SQLitePCLRaw.core.dll
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\bin\Debug\SQLite-net.xml
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\obj\Debug\AppEvidenciaAprendizaje.dll.mdb
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\bin\Debug\AppEvidenciaAprendizaje.dll.mdb
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\obj\Debug\AppEvidenciaAprendizaje.dll.mdb
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\bin\Debug\AppEvidenciaAprendizaje.dll.mdb

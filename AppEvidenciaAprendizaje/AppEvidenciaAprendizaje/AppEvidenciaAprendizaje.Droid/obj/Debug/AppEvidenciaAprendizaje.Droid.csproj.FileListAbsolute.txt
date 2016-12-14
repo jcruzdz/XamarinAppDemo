@@ -70,5 +70,12 @@ C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenci
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\bin\Debug\SQLite-net.dll
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\bin\Debug\SQLitePCLRaw.core.dll
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\bin\Debug\SQLite-net.xml
+C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\bin\Debug\SQLite-net.dll.mdb
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\obj\Debug\AppEvidenciaAprendizaje.Droid.dll.mdb
 C:\Xamarin\Diplomado\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje\AppEvidenciaAprendizaje.Droid\bin\Debug\AppEvidenciaAprendizaje.Droid.dll.mdb

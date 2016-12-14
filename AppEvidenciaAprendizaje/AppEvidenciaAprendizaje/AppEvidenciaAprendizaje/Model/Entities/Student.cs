@@ -1,7 +1,12 @@
-﻿namespace AppEvidenciaAprendizaje.Model.Entities
+﻿using AppEvidenciaAprendizaje.Storage;
+
+namespace AppEvidenciaAprendizaje.Model.Entities
 {
-    public class Student : ObservableBaseObject
+    public class Student : ObservableBaseObject, IKeyObject
     {
+        //Implementación de la intefaz IKeyObject, es necesaria para utilizar SQLite.
+        public string Key { get; set; }
+
         private string name;
         public string Name
         {
@@ -35,6 +40,5 @@
             get { return average; }
             set { average = value; OnPropertyChanged(); }
         }
-
     }
 }
