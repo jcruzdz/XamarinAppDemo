@@ -8,8 +8,7 @@ namespace AppEvidenciaAprendizaje.ViewModel
 {
     public class StudentDirectoryVM : ObservableBaseObject
     {
-        private ObservableCollection<Student> Students { get; set; }
-        public ListView LvStudents { get; set; }
+        public ObservableCollection<Student> Students { get; set; }
 
         bool isBusy = false;
         public bool IsBusy

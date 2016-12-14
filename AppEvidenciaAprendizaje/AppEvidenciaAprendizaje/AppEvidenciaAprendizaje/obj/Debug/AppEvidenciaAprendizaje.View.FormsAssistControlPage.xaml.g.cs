@@ -17,8 +17,12 @@ namespace AppEvidenciaAprendizaje.View {
     public partial class FormsAssistControlPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.ListView LvStudents;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(FormsAssistControlPage));
+            LvStudents = this.FindByName<global::Xamarin.Forms.ListView>("LvStudents");
         }
     }
 }
